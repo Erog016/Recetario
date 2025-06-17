@@ -1,0 +1,199 @@
+[33mcommit f7d9ff4090df13546c8c99b0b1f1b951ac53c7bf[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: ErOG <erordonezgarcia@gmail.com>
+Date:   Tue Jun 17 12:06:58 2025 -0600
+
+    Se aÃ±ade codigo base
+
+[1mdiff --git a/imagenes/ajiaco.jpg b/imagenes/ajiaco.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..5b1c7dd[m
+Binary files /dev/null and b/imagenes/ajiaco.jpg differ
+[1mdiff --git a/imagenes/arroz_coco.jpg b/imagenes/arroz_coco.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..f6127e3[m
+Binary files /dev/null and b/imagenes/arroz_coco.jpg differ
+[1mdiff --git a/imagenes/bandeja-paisa.jpg b/imagenes/bandeja-paisa.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..0fe6784[m
+Binary files /dev/null and b/imagenes/bandeja-paisa.jpg differ
+[1mdiff --git a/imagenes/banner_recetas.jpg b/imagenes/banner_recetas.jpg[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e15372d[m
+Binary files /dev/null and b/imagenes/banner_recetas.jpg differ
+[1mdiff --git a/recetas/Colombia/ajiaco.html b/recetas/Colombia/ajiaco.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..0c6b7e8[m
+[1m--- /dev/null[m
+[1m+++ b/recetas/Colombia/ajiaco.html[m
+[36m@@ -0,0 +1,43 @@[m
+[32m+[m[32m<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">[m
+[32m+[m[32m<HTML>[m
+[32m+[m[32m<HEAD>[m
+[32m+[m	[32m<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">[m
+[32m+[m	[32m<TITLE>Ajiaco</TITLE>[m
+[32m+[m[32m</HEAD>[m
+[32m+[m[32m<BODY LANG="es-ES">[m
+[32m+[m[32m<H1><IMG ID="imagen3" SRC="../../imagenes/ajiaco.jpg" NAME="Imagen1" ALIGN=LEFT BORDER=0><BR CLEAR=LEFT><BR>[m
+[32m+[m[32m</H1>[m
+[32m+[m[32m<H1 ID="titulo3">Ajiaco</H1>[m
+[32m+[m[32m<BR>[m
+[32m+[m	[32m<P>El ajiaco es un plato típico de la gastronomía de la región de Santa Fé de Bogotá y se ha convertido en la sopa más tradicional y deliciosa de Colombia.[m
+[32m+[m	[32m Aunque existen muchas maneras de prepararlo te comparto una receta fácil para deleitar a tu familia en casa.</P>[m
+[32m+[m[32m<BR>[m
+[32m+[m	[32m<P>Personas: 6<BR>[m
+[32m+[m	[32m   Tiempo de preparación: 90 min<BR><BR>[m
+[32m+[m
+[32m+[m	[32m<B>INGREDIENTES</B><BR>[m
+[32m+[m	[32m<UL>[m
+[32m+[m		[32m<LI type="square">2 kilos de pechuga de pollo<BR></LI>[m
+[32m+[m		[32m<LI type="square">1/2 kilo de papa sabanera<BR></LI>[m
+[32m+[m		[32m<LI type="square">1/2 kilo de papa pastusa<BR></LI>[m
+[32m+[m		[32m<LI type="square">1 kilo de papa criolla<BR></LI>[m
+[32m+[m		[32m<LI type="square">4 mazorcas<BR></LI>[m
+[32m+[m		[32m<LI type="square">Sal<BR></LI>[m
+[32m+[m		[32m<LI type="square">Guascas<BR></LI>[m
+[32m+[m		[32m<LI type="square">Alcaparras<BR></LI>[m
+[32m+[m		[32m<LI type="square">Crema de leche<BR></LI>[m
+[32m+[m	[32m</UL>[m
+[32m+[m[32m</P>[m
+[32m+[m	[32m<B>PREPARACIÓN</B><BR>[m
+[32m+[m[41m	[m
+[32m+[m	[32m<P>Corta las mazorcas en pedazos grandes y ponlos en una olla a fuego alto con dos litros de agua. Pela las papas sabaneras y córtalas en cubos para ponerlas a cocinar junto con las mazorcas.</P>[m
+[32m+[m
+[32m+[m	[32m<P>Pela las papas pastusas y córtalas en rodajas gruesas para introducirlas a la olla, mientras tanto retira la piel a las pechugas y cocínalas con la mezcla anterior.</P>[m
+[32m+[m
+[32m+[m	[32m<P>Pela las papas criollas y córtalas en rodajas también, agrégalas casi al final de la cocción ys que se cocinan muy rápido y se pueden deshacer.</P>[m
+[32m+[m
+[32m+[m	[32m<P>Cuando el pollo esté cocinado, sácalo de la olla y desmenúzalo. Baja la temperatura a fuego medio para que el contenido se espese e inmediatamente agregarle de nuevo el pollo, la sal al gusto y las guascas en manojos.</P>[m
+[32m+[m[32m<BR>[m
+[32m+[m[32m<P><A ID="enlace3" HREF="bandeja_paisa.html">Bandeja paisa (Región Andina)</A></P>[m
+[32m+[m[32m</BODY>[m
+[32m+[m[32m</HTML>[m
+\ No newline at end of file[m
+[1mdiff --git a/recetas/Colombia/arroz_coco.html b/recetas/Colombia/arroz_coco.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..853f9f8[m
+[1m--- /dev/null[m
+[1m+++ b/recetas/Colombia/arroz_coco.html[m
+[36m@@ -0,0 +1,35 @@[m
+[32m+[m[32m<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">[m
+[32m+[m[32m<HTML>[m
+[32m+[m[32m<HEAD>[m
+[32m+[m	[32m<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">[m
+[32m+[m	[32m<TITLE>Arroz con coco y camarón fresco</TITLE>[m
+[32m+[m[32m</HEAD>[m
+[32m+[m[32m<BODY LANG="es-ES">[m
+[32m+[m[32m<H1><IMG ID="imagen3" SRC="../../imagenes/ajiaco.jpg" NAME="Imagen1" ALIGN=LEFT BORDER=0><BR CLEAR=LEFT><BR>[m
+[32m+[m[32m</H1>[m
+[32m+[m[32m<H1 ID="titulo3">Arroz con coco y camarón fresco (Región Caribe)</H1>[m
+[32m+[m[32m<BR>[m
+[32m+[m	[32m<P>El arroz con camarones es típico de la Costa Caribe y Costa Pacífica, aunque en las demás regiones ya se ha vuelto un plato muy apetecido para ocasiones especiales.</P>[m
+[32m+[m[32m<BR>[m
+[32m+[m	[32m<P>Personas: 8<BR><BR>[m
+[32m+[m
+[32m+[m	[32m<B>INGREDIENTES</B><BR>[m
+[32m+[m	[32m<UL>[m
+[32m+[m		[32m<LI type="square">1 coco grande, partido en trozos pequeños<BR></LI>[m
+[32m+[m		[32m<LI type="square">Agua de coco, tibia<BR></LI>[m
+[32m+[m		[32m<LI type="square">2 cucharadas de azúcar<BR></LI>[m
+[32m+[m		[32m<LI type="square">1 libra de arroz<BR></LI>[m
+[32m+[m		[32m<LI type="square">½ libra de camarón fresco<BR></LI>[m
+[32m+[m		[32m<LI type="square">Sal al gusto<BR></LI>[m
+[32m+[m	[32m</UL>[m
+[32m+[m[32m</P>[m
+[32m+[m[32m<BR>[m
+[32m+[m	[32m<P>Licua el coco con su agua. Pasar por una coladera y exprimir bien. Reservar la leche obtenida y el coco licuado. Repetir la preparación anterior con agua normal con agua normal, tibia, hasta obtener cuatro tazas de leche de coco. Reservar.</P>[m
+[32m+[m
+[32m+[m	[32m<P>Aparte, en una olla al fuego, agregar la primera leche, dejar secar hasta obtener el aceite y los doraditos de coco. Incorporar la segunda leche, el azúcar, la sal y dejar hervir.</P>[m
+[32m+[m
+[32m+[m	[32m<P>Mezclar con el arroz previamente lavado y los camarones. Dejar secar y continuar la cocción a fuego bajo tapado, hasta que el arroz esté listo.</P>[m
+[32m+[m[32m<BR>[m
+[32m+[m[32m<P><A ID="enlace3" HREF="ajiaco.html">Ajiaco</A></P>[m
+[32m+[m[32m</BODY>[m
+[32m+[m[32m</HTML>[m
+\ No newline at end of file[m
+[1mdiff --git a/recetas/Colombia/bandeja_paisa.html b/recetas/Colombia/bandeja_paisa.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..3b69ae7[m
+[1m--- /dev/null[m
+[1m+++ b/recetas/Colombia/bandeja_paisa.html[m
+[36m@@ -0,0 +1,49 @@[m
+[32m+[m[32m<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">[m
+[32m+[m[32m<HTML>[m
+[32m+[m[32m<HEAD>[m
+[32m+[m	[32m<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">[m
+[32m+[m	[32m<TITLE>Bandeja paisa</TITLE>[m
+[32m+[m[32m</HEAD>[m
+[32m+[m[32m<BODY LANG="es-ES">[m
+[32m+[m[32m<H1><IMG ID="imagen3" SRC="../../imagenes/bandeja-paisa.jpg" NAME="Imagen1" ALIGN=LEFT BORDER=0><BR CLEAR=LEFT><BR>[m
+[32m+[m[32m</H1>[m
+[32m+[m[32m<H1 ID="titulo3">Bandeja paisa</H1>[m
+[32m+[m[32m<BR>[m
+[32m+[m	[32m<P>La bandeja paisa es el plato más representativo y la insignia de la gastronomía antioqueña, y es propio de esta región, Antioquia.</P>[m
+[32m+[m	[32m<P>Una de las características fundamentales de este plato es su abundancia, tanto en cantidad como en variedad de alimentos, de tal modo que la bandeja paisa completa solo cabe servirla en platos grandes llamados bandejas</P>[m
+[32m+[m[32m<BR>[m
+[32m+[m
+[32m+[m	[32m<B>INGREDIENTES</B><BR>[m
+[32m+[m	[32m<UL>[m
+[32m+[m		[32m<LI type="square">3 tazas de frijoles cargamanto o rojos grandes<BR></LI>[m
+[32m+[m		[32m<LI type="square">2 cucharadas de aceite<BR></LI>[m
+[32m+[m		[32m<LI type="square">2 lbs de carne molida 1 taza de hogao o guiso<BR></LI>[m
+[32m+[m		[32m<LI type="square">2 lbs de tocino 6 huevos 6 chorizos 3 aguacates<BR></LI>[m
+[32m+[m		[32m<LI type="square">1 libra de arroz<BR></LI>[m
+[32m+[m		[32m<LI type="square">3 Plátanos dulces o tostones (plátanos machos) Arepa<BR></LI>[m
+[32m+[m		[32m<LI type="square">4 cebollas grandes<BR></LI>[m
+[32m+[m		[32m<LI type="square">4 tomates (jitomates) Aceite, al gusto<BR></LI>[m
+[32m+[m		[32m<LI type="square">2 lbs de carne de pulpa molida<BR></LI>[m
+[32m+[m		[32m<LI type="square">3 tazas de harina de maíz precocida (blanca o amarilla) para arepas<BR></LI>[m
+[32m+[m		[32m<LI type="square">2 tazas de agua tibia<BR></LI>[m
+[32m+[m		[32m<LI type="square">Sal al gusto<BR></LI>[m
+[32m+[m	[32m</UL>[m
+[32m+[m[32m</P>[m
+[32m+[m[32m<BR>[m
+[32m+[m	[32m<B>PREPARACIÓN</B><BR>[m
+[32m+[m[41m	[m
+[32m+[m	[32m<P>Remojar los frijoles en agua hasta cubrirlos la noche anterior a su preparación; cocinarlos en esa misma agua, con la mitad del aceite. Cuando estén blandos, agregarle la sal.</P>[m
+[32m+[m
+[32m+[m	[32m<P>Mientras tanto, sofríe la carne molida en aceite a fuego medio alto añadiendo la mitad del hogao y revuélvelo bien. fríe los chicharrones hasta que queden tostados o al punto deseado.</P>[m
+[32m+[m
+[32m+[m	[32m<P>Cuando los frijoles estén blandos, añade el guiso restante y cocina entre 5 y 10 minutos adicionales para darles espesor. Luego, en una sartén, coloca aceite para freír los plátanos dulces o los patacones y los huevos fritos.</P>[m
+[32m+[m
+[32m+[m	[32m<P><strong>Hogao o guiso:</strong> Mézclalo todo y cocínalo en una sartén durante 10 minutos</P>[m
+[32m+[m[41m	[m
+[32m+[m	[32m<P><strong>Arepas::</strong> En un tazón suficientemente grande para amasar, coloca la harina de maíz. Sobre la harina agrega aceite. Añádele sal al agua, viértela y mezcla hasta conseguir una masa consistente. Haz bola de masa en tu mano y aplánala con tus dos manos hasta darle una forma redondita. </P>[m
+[32m+[m[41m	[m
+[32m+[m	[32m<P>Luego en una sartén con poco aceite, asa las arepas hasta que se doren ambos lados.</P>[m
+[32m+[m[32m<BR>[m
+[32m+[m[32m<P><A ID="enlace3" HREF="arroz_coco.html">Arroz con coco y camarón fresco</A></P>[m
+[32m+[m[32m</BODY>[m
+[32m+[m[32m</HTML>[m
+\ No newline at end of file[m
+[1mdiff --git a/recetas/index.html b/recetas/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..27d1c0e[m
+[1m--- /dev/null[m
+[1m+++ b/recetas/index.html[m
+[36m@@ -0,0 +1,22 @@[m
+[32m+[m[32m<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">[m
+[32m+[m[32m<HTML>[m
+[32m+[m[32m<HEAD>[m
+[32m+[m	[32m<META HTTP-EQUIV="CONTENT-TYPE" CONTENT="text/html; charset=windows-1252">[m
+[32m+[m	[32m<TITLE>Recetas de cocina hispanoamericana</TITLE>[m
+[32m+[m[32m</HEAD>[m
+[32m+[m[32m<BODY LANG="es-ES">[m
+[32m+[m[32m<H1><IMG ID="banner" SRC="../imagenes/banner_recetas.jpg" NAME="banner_recetas" ALIGN=LEFT BORDER=0><BR CLEAR=LEFT><BR>[m
+[32m+[m[32m</H1>[m
+[32m+[m[32m<H1 ID="titulo1">Recetas de comida hispanoamericana</H1>[m
+[32m+[m	[32m<P><HR></HR>[m
+[32m+[m	[32m</P>[m
+[32m+[m[32m<H2>Colombia</H2>[m
+[32m+[m[32m<P>[m
+[32m+[m	[32m<UL>[m
+[32m+[m		[32m<LI type="circle"><A ID="enlace1" HREF="../recetas/Colombia/arroz_coco.html">Arroz con coco y camarón fresco (Región Caribe)</A><BR></LI>[m
+[32m+[m		[32m<LI type="circle"><A ID="enlace2" HREF="../recetas/Colombia/bandeja_paisa.html">Bandeja paisa (Región Andina)</A><BR></LI>[m
+[32m+[m		[32m<LI type="circle"><A ID="enlace3" HREF="../recetas/Colombia/ajiaco.html">Ajiaco (Región Andina)</A><BR></LI>[m
+[32m+[m	[32m</UL>[m
+[32m+[m[32m</P>[m
+[32m+[m[32m</BODY>[m
+[32m+[m[32m</HTML>[m
+\ No newline at end of file[m
